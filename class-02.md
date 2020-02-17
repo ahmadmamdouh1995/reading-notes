@@ -54,14 +54,14 @@ used with foot notes or chemical formulas.
 * != not equal 
 * === equal data type and value .
 * !== not equal data type and value .
-* < less than 
-* > graeter than 
-* >= graeter than equal 
-* <= less than equal 
+* '<' less than 
+* '>' graeter than 
+* '>=' graeter than equal 
+* '<=' less than equal 
 
 ### logical operaters :
 * && and 
-* || or 
+* '||' or 
 * ! not 
 
  
