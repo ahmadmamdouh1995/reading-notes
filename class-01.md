@@ -16,19 +16,19 @@
 
 * Escape characters are used to include special characters in our pages such as <, >, and ©.
 
-### The <header> and <footer> elements can be used for:
+### The 'header' and 'footer' elements can be used for:
 The main header or footer that appears at the top or bottom of every page on the site.
-A header or footer for an individual <article> or <section> within the page.
+A header or footer for an individual 'article' or 'section' within the page.
 
 ## Some kind of Tags In HTML.
-1- The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
+1- The 'nav' element is used to contain the major navigational blocks on the site such as the primary site navigation.
 
-2- The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
-3- The <aside> element has two purposes, depending on whether it is inside an <article> element or not.
+2- The 'article' element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+3- The 'aside' element has two purposes, depending on whether it is inside an 'article' element or not.
 
-4- The <section> element groups related content together, and typically each section would have its own heading.
+4- The 'section' element groups related content together, and typically each section would have its own heading.
 
-5- the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
+5- the 'hgroup' element is to group together a set of one or more 'h1' through 'h6' elements so that they are treated as one single heading.
 
 ## WireFrame
 WireFrame is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
